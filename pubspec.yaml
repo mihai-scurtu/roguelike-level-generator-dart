@@ -1,0 +1,7 @@
+name: level_generator
+dependencies:
+  matrix:
+    path: C:\Users\Mihai\dart\matrix
+  quiver: any
+dev_dependencies:
+  unittest: any
